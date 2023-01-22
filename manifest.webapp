@@ -1,6 +1,6 @@
 {
   "version": "0.1",
-  "name": "Web dictaphone",
+  "name": "Shuabe Dictaphone",
   "description": "A sample MDN app that uses getUserMedia and MediaRecorder API for recording audio snippets, and The Web Audio API for visualizations.",
   "launch_path": "/index.html",
   "icons": {
